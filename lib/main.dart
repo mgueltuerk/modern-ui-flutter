@@ -1,3 +1,11 @@
+/*
+ * Project: /modern-ui-flutter
+ * File Created: Monday, 28th February 2022 4:34:21 pm
+ * Author: Murat Gültürk m.gueltuerk@gmx.de, https://github.com/mgueltuerk
+ * Last Modified: Tuesday, 1st March 2022 12:02:52 pm
+ * Copyright - 2022, Murat Gültürk
+ * Published under GNU Public License (GPL)
+ */
 import 'package:flutter/material.dart';
 import 'input_page.dart';
 
