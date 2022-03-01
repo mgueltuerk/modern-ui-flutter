@@ -2,6 +2,22 @@
 
 A new Flutter project.
 
+## IOS
+
+![Alt-Text](/screenshots/modern-ui-ios.png)
+
+## ANDROID
+
+![Alt-Text](/screenshots/modern-ui-android.png)
+
+## MAC OS
+
+![Alt-Text](/screenshots/modern-ui-mac.png)
+
+## WEB
+
+![Alt-Text](/screenshots/modern-ui-web.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
